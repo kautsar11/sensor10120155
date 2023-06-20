@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lokasi Restoran</string>
+    <string name="title_info">Info</string>
+    <string name="title_location">Lokasi</string>
+    <string name="title_profile">Profile</string>
+    <string name="google_maps_key">AIzaSyCRhWH3Wf5mHphAqc8GDR00acm_M-d8kmk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
